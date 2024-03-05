@@ -6,7 +6,7 @@ This repository contains an index of all Qlty code coverage language examples.
 
 ## Examples
 
-| Language | GitHub Actions Workflow |
+| Language | GitHub Actions |
 |-|-|
 | [Rust](https://github.com/qltyai/example-rust) | [![Build](https://github.com/qltyai/example-rust/actions/workflows/main.yml/badge.svg)](https://github.com/qltyai/example-rust/actions/workflows/main.yml) |
 
