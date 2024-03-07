@@ -8,6 +8,7 @@ This repository contains an index of all Qlty code coverage language examples.
 
 | Language | GitHub Actions |
 |-|-|
+| [Java](https://github.com/qltyai/example-java) | [![Build](https://github.com/qltyai/example-java/actions/workflows/main.yml/badge.svg)](https://github.com/qltyai/example-java/actions/workflows/main.yml) |
 | [JavaScript](https://github.com/qltyai/example-javascript) | [![Build](https://github.com/qltyai/example-javascript/actions/workflows/main.yml/badge.svg)](https://github.com/qltyai/example-javascript/actions/workflows/main.yml) |
 | [Kotlin](https://github.com/qltyai/example-kotlin) | [![Build](https://github.com/qltyai/example-kotlin/actions/workflows/main.yml/badge.svg)](https://github.com/qltyai/example-kotlin/actions/workflows/main.yml) |
 | [Ruby](https://github.com/qltyai/example-ruby) | [![Build](https://github.com/qltyai/example-ruby/actions/workflows/main.yml/badge.svg)](https://github.com/qltyai/example-ruby/actions/workflows/main.yml) |
