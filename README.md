@@ -9,6 +9,7 @@ This repository contains an index of all Qlty code coverage language examples.
 | Language | GitHub Actions |
 |-|-|
 | [Kotlin](https://github.com/qltyai/example-kotlin) | [![Build](https://github.com/qltyai/example-kotlin/actions/workflows/main.yml/badge.svg)](https://github.com/qltyai/example-kotlin/actions/workflows/main.yml) |
+| [Ruby](https://github.com/qltyai/example-ruby) | [![Build](https://github.com/qltyai/example-ruby/actions/workflows/main.yml/badge.svg)](https://github.com/qltyai/example-ruby/actions/workflows/main.yml) |
 | [Rust](https://github.com/qltyai/example-rust) | [![Build](https://github.com/qltyai/example-rust/actions/workflows/main.yml/badge.svg)](https://github.com/qltyai/example-rust/actions/workflows/main.yml) |
 
 
