@@ -1,6 +1,6 @@
 # Qlty Code Coverage Examples
 
-[Qlty](https://example.com) is a Code Health Platform with support for code coverage.
+[Qlty](https://qlty.sh) is a Code Health Platform with support for code coverage.
 
 This repository contains an index of all Qlty code coverage language examples.
 
@@ -17,16 +17,17 @@ This repository contains an index of all Qlty code coverage language examples.
 | [Ruby](https://github.com/qltysh/example-ruby) | [![Build](https://github.com/qltysh/example-ruby/actions/workflows/main.yml/badge.svg)](https://github.com/qltysh/example-ruby/actions/workflows/main.yml) |
 | [Rust](https://github.com/qltysh/example-rust) | [![Build](https://github.com/qltysh/example-rust/actions/workflows/main.yml/badge.svg)](https://github.com/qltysh/example-rust/actions/workflows/main.yml) |
 | [TypeScript](https://github.com/qltysh/example-typescript) | [![Build](https://github.com/qltysh/example-typescript/actions/workflows/main.yml/badge.svg)](https://github.com/qltysh/example-typescript/actions/workflows/main.yml) |
+| [Swift](https://github.com/qltysh/example-swift) | [![Build](https://github.com/qltysh/example-swift/actions/workflows/main.yml/badge.svg)](https://github.com/qltysh/example-swift/actions/workflows/main.yml) |
 
 
 ## Documentation
 
-- [Code coverage configuration](https://example.com)
-- [Supported programming languages](https://example.com)
+- [Code coverage configuration]([https://example.com](https://docs.qlty.sh/coverage/quickstart))
+- [Supported programming languages]([https://example.com](https://docs.qlty.sh/coverage/generating-data))
 
 ## Help and feedback
 
-Join the our [Slack Community](https://example.com) for help and to provide feedback that we'll use to improve Qlty.
+Join the our [Discord channel](https://qlty.sh/discord) for help and to provide feedback that we'll use to improve Qlty.
 
 ## License
 
