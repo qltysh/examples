@@ -18,6 +18,7 @@ This repository contains an index of all Qlty code coverage language examples.
 | [Rust](https://github.com/qltysh/example-rust) | [![Build](https://github.com/qltysh/example-rust/actions/workflows/main.yml/badge.svg)](https://github.com/qltysh/example-rust/actions/workflows/main.yml) |
 | [TypeScript](https://github.com/qltysh/example-typescript) | [![Build](https://github.com/qltysh/example-typescript/actions/workflows/main.yml/badge.svg)](https://github.com/qltysh/example-typescript/actions/workflows/main.yml) |
 | [Swift](https://github.com/qltysh/example-swift) | [![Build](https://github.com/qltysh/example-swift/actions/workflows/main.yml/badge.svg)](https://github.com/qltysh/example-swift/actions/workflows/main.yml) |
+| [Elixir](https://github.com/qltysh/example-elixir) | [![Build](https://github.com/qltysh/example-elixir/actions/workflows/main.yml/badge.svg)](https://github.com/qltysh/example-elixir/actions/workflows/main.yml) |
 
 
 ## Documentation
